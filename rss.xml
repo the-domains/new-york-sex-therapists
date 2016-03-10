@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[New York Sex Therapists]]></title>
+        <description><![CDATA[New York Sex Therapists]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Mar 2016 17:05:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[sextherapistsnyc]]></title>
+            <description><![CDATA[<article><h1>sextherapistsnyc</h1><p>sex therapists in new york</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8168fab2-e953-47ac-9208-718cabda79a4.jpg"></article>]]></description>
+            <link>undefined270e9dd3-80b4-4844-8c15-37a43470de84/index.html</link>
+            <guid isPermaLink="false">270e9dd3-80b4-4844-8c15-37a43470de84</guid>
+            <pubDate>Thu, 10 Mar 2016 17:05:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
